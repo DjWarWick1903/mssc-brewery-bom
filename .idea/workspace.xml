@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c05a29f-ad61-45e7-9beb-d27cf921d687" name="Changes" comment="Added common dependencies of microservices to BOM">
+    <list default="true" id="6c05a29f-ad61-45e7-9beb-d27cf921d687" name="Changes" comment="Added common build plugins of microservices to BOM">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661002745483</updated>
-      <workItem from="1661002747367" duration="2978000" />
+      <workItem from="1661002747367" duration="3647000" />
     </task>
     <task id="LOCAL-00001" summary="BOM first setup">
       <created>1661003146981</created>
@@ -76,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661005542792</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added common build plugins of microservices to BOM">
+      <created>1661005982190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661005982190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +106,7 @@
     <MESSAGE value="Added common properties to BOM" />
     <MESSAGE value="Added dependency management in BOM" />
     <MESSAGE value="Added common dependencies of microservices to BOM" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added common dependencies of microservices to BOM" />
+    <MESSAGE value="Added common build plugins of microservices to BOM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added common build plugins of microservices to BOM" />
   </component>
 </project>
