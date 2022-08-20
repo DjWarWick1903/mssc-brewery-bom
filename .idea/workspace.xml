@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c05a29f-ad61-45e7-9beb-d27cf921d687" name="Changes" comment="BOM first setup">
+    <list default="true" id="6c05a29f-ad61-45e7-9beb-d27cf921d687" name="Changes" comment="Added common properties to BOM">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -47,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661002745483</updated>
-      <workItem from="1661002747367" duration="724000" />
+      <workItem from="1661002747367" duration="2031000" />
     </task>
     <task id="LOCAL-00001" summary="BOM first setup">
       <created>1661003146981</created>
@@ -56,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661003146981</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added common properties to BOM">
+      <created>1661003699502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661003699502</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BOM first setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="BOM first setup" />
+    <MESSAGE value="Added common properties to BOM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added common properties to BOM" />
   </component>
 </project>
